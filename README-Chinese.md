@@ -1038,3 +1038,4 @@ Ju Fan, Tongyu Liu, Guoliang Li, Yuwei Shen, Xiaoyong Du. Relational Data Synthe
 
 [https://github.com/TsinghuaDatabaseGroup/datasets](https://github.com/TsinghuaDatabaseGroup/datasets)
 
+[https://github.com/CloudWise-OpenSource/GAIA-DataSet](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
